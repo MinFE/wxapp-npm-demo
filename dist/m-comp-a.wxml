@@ -1,0 +1,4 @@
+<view class="m-comp-a">
+    <view>I a {{name}}</view>
+    <m-comp-b></m-comp-b>
+</view>

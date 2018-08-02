@@ -1,0 +1,3 @@
+<view class="m-comp-b">
+    <view>I a {{name}}</view>
+</view>
